@@ -15,7 +15,7 @@
 * [LinkedIn](https://www.linkedin.com/in/samuel-senerwa-b37112235/)
 * [Email](mailto:samuelsenerwa@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lordwill1&layout=compact)](https://github.com/Lordwill1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsenerwa&layout=compact)](https://github.com/samuelsenerwa/github-readme-stats)
 
 
 ## QUESTION AND ANSWER WEBSITE 
@@ -27,7 +27,7 @@
 * [Code project](https://codeproject.com/)
 * [Programmers heaven](https://programmersheaven.com/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsenerwa)](https://github.com/samuelsenerwa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsenerwa&show_icons=true&theme=tokyonight)
 
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/lordwill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p>
