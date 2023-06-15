@@ -29,6 +29,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsenerwa&show_icons=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=samuelsenerwa)](https://github.com/samuelsenerwa/github-profile-trophy)
+
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/lordwill"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p>
 
