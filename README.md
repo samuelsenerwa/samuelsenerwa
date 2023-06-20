@@ -46,7 +46,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelsenerwa)](https://github.com/samuelsenerwa/github-profile-trophy)
 
 <h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/samuelsenerwa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p>
+<p><a href="https://bmc.link/samuelsenerwa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p>
 
 <!---
 samuelsenerwa/samuelsenerwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
