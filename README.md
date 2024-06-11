@@ -3,7 +3,7 @@
 # Hi I'm Samuel Senerwa.👋
 
 
-### I am a Software Engineering student at ALX. `I learn by doing....`
+### I am a Software Engineer. `I learn by doing....`
 
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👀 I’m interested in Cybesecurity and Cloud Computing.
