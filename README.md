@@ -72,6 +72,11 @@
 </p>
 <br>
 
+## Github Stats
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/samuelsenerwa/samuelsenerwa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Samuel Senerwa" />
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=samuelsenerwa)](https://github.com/samuelsenerwa/github-profile-trophy)
 
 <h2 align="left">Support:</h2>
