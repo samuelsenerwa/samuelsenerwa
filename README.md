@@ -17,6 +17,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c++)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
