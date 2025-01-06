@@ -63,14 +63,16 @@
 
 [![Samuel Senerwa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samuelsenerwa&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/samuelsenerwa)
 
+
 ## Stats
 <br/>
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=samuelsenerwa&show_icons=true&theme=radical&hide_border=true" />
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsenerwa&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## Github Stats
 <p align="center" style="width: 100%;">
