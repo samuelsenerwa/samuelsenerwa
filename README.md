@@ -61,7 +61,7 @@
 
 <br>
 
-[![Samuel Senerwa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samuelsenerwa&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/samuelsenerwa)
+[![Samuel Senerwa's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=samuelsenerwa&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true)](https://github.com/samuelsenerwa)
 
 
 ## Stats
@@ -72,7 +72,7 @@
 </p>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-pied-nine.vercel.app?user=samuelsenerwa&theme=dark&card_width=500)](https://git.io/streak-stats)
 
 ## Github Stats
 <p align="center" style="width: 100%;">
