@@ -6,7 +6,7 @@
 ### I am a Software Engineer. `I learn by doing....`
 
 - #### 🔭 I’m currently working on my coding skills.
-- #### 👀 I’m interested in Cybesecurity and Cloud Computing.
+- #### 👀 I’m interested in Cybesecurity.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 <br>
