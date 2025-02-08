@@ -6,7 +6,7 @@
 ### I am a Software Engineer. `I learn by doing....`
 
 - #### 🔭 I’m currently working on my coding skills.
-- #### 👀 I’m interested in Cybesecurity.
+- #### 👀 I’m interested in AI & ML.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 <br>
@@ -61,7 +61,6 @@
 ![docker (2)](https://github.com/mugane-dj/mugane-dj/assets/85606106/da4c7916-0611-489c-9b02-efd89888eceb)
 ![typescript (3)](https://github.com/mugane-dj/mugane-dj/assets/85606106/08427348-2a84-42e9-94e5-5427544c7cfa)
 ![nodejs (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/5bc46c3e-ba14-4622-98b9-45181e9d5289)
-![go (1)](https://github.com/mugane-dj/mugane-dj/assets/85606106/150701ad-2272-4e72-a3ab-e2a7d1b81191)
 
 <br>
 
