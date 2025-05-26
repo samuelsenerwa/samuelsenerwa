@@ -64,9 +64,6 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samuelsenerwa&theme=onedark-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-
 ## Stats
 <br/>
 <p align="center">
@@ -75,7 +72,7 @@
 </p>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=samuelsenerwa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuelsenerwa&theme=onedark-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## Github Stats
 <p align="center" style="width: 100%;">
